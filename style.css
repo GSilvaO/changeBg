@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    background-color: grey;
+    font: normal 20pt arial;
+}
+
+div{ 
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #cecece;
+    width: 500px;
+    height: 200px;
+    margin: 300px auto;
+    box-shadow: 5px 5px black;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 25pt;
+    text-shadow: 2px 2px white;
+}
+
+button {
+    display: block;
+    margin: -30px auto;
+    border: 5px solid black;
+    border-radius: 15px;
+    color: black;
+    font-size: 25px;
+    background-color: white;
+}
